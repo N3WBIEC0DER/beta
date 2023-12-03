@@ -1,0 +1,1 @@
+[FBAN/MobileAdsManagerAndroid;FBAV/393.0.0.81.92;FBBV/791629791;FBRV/0;FBPN/com.facebook.adsmanager;FBLC/en_US;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia Asha 663 Max;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
