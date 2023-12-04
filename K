@@ -1,1 +1,1 @@
-[FBAN/MobileAdsManagerAndroid;FBAV/393.0.0.81.92;FBBV/791629791;FBRV/0;FBPN/com.facebook.adsmanager;FBLC/en_US;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia Asha 663 Max;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454103;FBDM/{density=1.5,width=480,height=782};FBLC/en_US;FBCR/MetroPCS;FBMF/LGE;FBBD/MetroPCS;FBPN/com.facebook.katana;FBDV/LGMS345;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
