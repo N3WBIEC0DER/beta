@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/129.0.0.2.118;FBPN/com.facebook.mlite;FBLC/ en_US;FBBV/291814063;FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/SM-S918B;FBSV/13;FBCA
+[FBAN/FB4A;FBAV/64.0.0.52.76;FBBV/22754145;FBDM/{density=1.5,width=480,height=854};FBLC/es_ES;FBCR/TELCEL GSM;FBMF/alps;FBBD/alps;FBPN/com.facebook.katana;FBDV/M4 SS1060;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]'
