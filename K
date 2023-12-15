@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454103;FBDM/{density=1.5,width=480,height=782};FBLC/en_US;FBCR/MetroPCS;FBMF/LGE;FBBD/MetroPCS;FBPN/com.facebook.katana;FBDV/LGMS345;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/64.0.0.52.76;FBBV/22754145;FBDM/{density=1.5,width=480,height=854};FBLC/es_ES;FBCR/TELCEL GSM;FBMF/alps;FBBD/alps;FBPN/com.facebook.katana;FBDV/M4 SS1060;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]'
