@@ -1,1 +1,1 @@
-FBDM/{density=1.75,width=720,height=1396};FBLC/ro_RO;FBRV/198377061;FBCR/BASE | Lycamobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J415FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+FBBV/196542486;FBDM/{density=1.75,width=720,height=1396};FBLC/ro_RO;FBRV/198377061;FBCR/BASE | Lycamobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J415FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
