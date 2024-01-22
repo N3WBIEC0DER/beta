@@ -1,1 +1,1 @@
-FBBV/292233352;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/496244047;FBCR/BITE;FBMF/Cherry Mobile;FBBD/Cherry Mobile;FBPN/com.facebook.katana;FBDV/Omega X;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=480,height=854};FBLC/es_LA;FBCR/BITEL;FBMF/HUAWEI;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/HUAWEI Y550;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
