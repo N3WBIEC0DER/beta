@@ -1,1 +1,2 @@
 FBBV/293906223;FBDM/{density=3.0,width=1080,height=2128};FBLC/en_IN;FBRV/295413075;FBCR/KPN;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/INE-LX1;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+FBBV/292233352;FBDM/{density=2.0,width=720,height=1344};FBLC/en_GB;FBRV/296244047;FBCR/BITE;FBMF/Cherry Mobile;FBBD/Cherry Mobile;FBPN/com.facebook.katana;FBDV/Omega X;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
